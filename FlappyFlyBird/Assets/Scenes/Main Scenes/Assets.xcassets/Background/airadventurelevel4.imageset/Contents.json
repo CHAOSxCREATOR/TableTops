@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "modern-office-background-4000-x-2682-025xps9kh3cms6js.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
